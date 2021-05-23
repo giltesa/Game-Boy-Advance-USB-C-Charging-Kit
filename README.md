@@ -2,6 +2,8 @@
 
 ...
 
+![GBA](https://raw.githubusercontent.com/giltesa/GBA-USB-C-Charging-Kit/master/5.%20Photos/paper-pcb.jpg)
+
 
 ## License
 
