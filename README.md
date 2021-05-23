@@ -1,6 +1,6 @@
 # Game Boy Advance USB-C Charging Kit
 
-...
+It should be a board you can solder directly over the GBA board and keep all battery space for the biggest battery you can find.
 
 ![GBA](https://raw.githubusercontent.com/giltesa/GBA-USB-C-Charging-Kit/master/5.%20Photos/paper-pcb.jpg)
 
